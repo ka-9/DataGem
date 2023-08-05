@@ -35,7 +35,7 @@ We welcome your contributions to enhance the DataGem repository! Here's how you 
 
 - 📊 **Contributed DataSets:**
 - 🔗 **Links to Existing Datasets:**
-  - [UC Irvine Machine Learning Repo](https://lnkd.in/dS5ktukq)
+  - [UC Irvine Machine Learning Repo](https://archive.ics.uci.edu/)
 
 - 📝 **Updating Dataset Information:**
   1. If you notice outdated or incorrect information, fork the repository.
