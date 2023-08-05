@@ -1,5 +1,5 @@
 # DataGem 📊💎
-### Crafting legendary machine learning models demands the rarest gems of data. Unearth brilliance in our repository, where DataGem offers meticulously curated datasets—each a shining jewel—for your AI creations to dazzle. Explore curated, reliable data for impactful AI, and contribute to the gem of data resources today!
+### Crafting legendary machine learning models demands the rarest gems of data. Unearth brilliance in our repository, where DataGem offers meticulously curated datasets — each a shining jewel 💎 — for your AI creations to dazzle 🤖. Explore curated, reliable data for impactful AI, and contribute to the gem of data resources today!
 
 
 ## Abstract
