@@ -29,7 +29,7 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 - 🌷 **Environmental Data:** Datasets related to the environment and ecology.
 - 📚 **Educational Data:** Educational materials and learning datasets.
 - 🥑 **Food Data:** Datasets related to ingredients, recipes, nutrition, and culinary trends.
-- 🐼 **[Animal Data:](https://github.com/ka-9/DataGem/tree/main/Animal%20Data)** Datasets related to wildlife, animal behavior, and species information.
+- 🐼 **[Animal Data:](https://github.com/ka-9/DataGem/blob/main/Animal%20Data/Animal%20Data.md)** Datasets related to wildlife, animal behavior, and species information.
 
 ## Contributing to DataGem 🚀
 
