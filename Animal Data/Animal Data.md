@@ -1,6 +1,6 @@
 # 🐼 Animal Datasets
 
-* [Palmer Penguins Datasets](https://allisonhorst.github.io/palmerpenguins/):
+* ## [Palmer Penguins Datasets:](https://allisonhorst.github.io/palmerpenguins/)
     The palmerpenguins package contains two datasets, containing data for 344 penguins. There are 3 different species of penguins in this dataset, collected from 3 islands in the Palmer Archipelago, Antarctica.
 
     The goal of palmerpenguins is to provide a great dataset for data exploration & visualization, as an alternative to `iris`.
