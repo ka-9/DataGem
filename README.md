@@ -26,7 +26,7 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 - 💰 **Financial Data:** Economic and financial datasets.
 - 🛻 **Vehicle / Transportation Data:** Datasets covering vehicles, transportation modes, routes, and related insights, including data relevant to property and casualty insurance.
 - 🧬 **[Biological Data:](https://github.com/ka-9/DataGem/tree/main/Biological%20Data)** Genetic, genomic, and biological datasets.
-- 📟 **Technology Data:** Datasets related to technological advancements and equipment.
+- 📟 **[Technology Data:](https://github.com/ka-9/DataGem/tree/main/Technology%20Data)** Datasets related to technological advancements and equipment.
 - 🌷 **Environmental Data:** Datasets related to the environment and ecology.
 - 📚 **Educational Data:** Educational materials and learning datasets.
 - 🥑 **Food Data:** Datasets related to ingredients, recipes, nutrition, and culinary trends.
