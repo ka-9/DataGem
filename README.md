@@ -25,7 +25,8 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 - 🗺️ **Geospatial Data:** Geographic information and spatial datasets.
 - 💰 **Financial Data:** Economic and financial datasets.
 - 🛻 **Vehicle / Transportation Data:** Datasets covering vehicles, transportation modes, routes, and related insights, including data relevant to property and casualty insurance.
-- 🧬 **Biological Data:** Genetic, genomic, and biological datasets.
+- 🧬 **[Biological Data:](https://github.com/ka-9/DataGem/tree/main/Biological%20Data)** Genetic, genomic, and biological datasets.
+- 📟 **Technology Data:** Datasets related to technological advancements and equipment.
 - 🌷 **Environmental Data:** Datasets related to the environment and ecology.
 - 📚 **Educational Data:** Educational materials and learning datasets.
 - 🥑 **Food Data:** Datasets related to ingredients, recipes, nutrition, and culinary trends.
@@ -35,7 +36,7 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 
 We welcome your contributions to enhance the DataGem repository! Here's how you can get involved:
 
-- ### 📊 **Dataset Submission:**
+- ### 🧪 **Dataset Submission:**
 1. Fork the repository.
 2. Create a new branch for your dataset: `git checkout -b your-dataset-name`.
 3. Contribute by either:
