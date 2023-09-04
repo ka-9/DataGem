@@ -3,7 +3,7 @@
 * ## [BatteryML: An Open-Source Tool for Machine Learning on Battery Degradation](https://github.com/microsoft/BatteryML)
 
   **Aim:**
-  BatteryML aims to facilitate research and development in machine learning for analyzing and predicting lithium battery degradation to address critical commercial scenarios.
+  Microsoft's BatteryML aims to facilitate research and development in machine learning for analyzing and predicting lithium battery degradation to address critical commercial scenarios.
 
   **Use Cases:**
 
