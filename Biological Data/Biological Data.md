@@ -7,5 +7,13 @@
 * ## [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
   The data was collected from 4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach.
   This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them.  In particular, the Cleveland database is the only one that has been used by ML researchers to date.  The "goal" field refers to the presence of heart disease in the patient.  It is integer valued from 0 (no presence) to 4. Experiments with the Cleveland database have concentrated on simply attempting to distinguish presence (values 1,2,3,4) from absence (value 0).
-  
-  Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+
+  | **Dataset Characteristic**  | **Value**               |
+  | --------------------------- | ----------------------- |
+  | **Subject Area**            | Life Science            |
+  | **Associated Tasks**        | Classification          |
+  | **Attribute Type**          | Categorical, Integer, Real |
+  | **# Instances**             | 303                     |
+  | **# Attributes**            | 13                      |
+
+      Source: Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
