@@ -7,7 +7,6 @@
 
   **Use Cases:**
 
-
   - **Open-source and Community-driven:** Encourages collaboration between computer science and battery research communities to advance battery degradation modeling.
   - **Comprehensive Dataset Collection:** Offers easy access to a vast collection of publicly available battery datasets.
   - **Preprocessing and Feature Engineering:** Provides built-in capabilities for data preprocessing and feature engineering, simplifying dataset preparation.
