@@ -16,4 +16,6 @@
     | # Instances             | 150           |
     | # Attributes            | 4 Information |
 
+  Source: Fisher,R. A.. (1988). Iris. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
+
 
