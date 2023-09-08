@@ -23,7 +23,7 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 - 🎹 **Audio Datasets:** Sound recordings for audio analysis and processing.
 - 📝 **Textual Data:** Text-based datasets for natural language processing.
 - 🗺️ **Geospatial Data:** Geographic information and spatial datasets.
-- 💰 **Financial Data:** Economic and financial datasets.
+- 💰 **[Financial Data:](https://github.com/ka-9/DataGem/tree/main/Financial%20Data)** Economic and financial datasets.
 - 🛻 **Vehicle / Transportation Data:** Datasets covering vehicles, transportation modes, routes, and related insights, including data relevant to property and casualty insurance.
 - 🧬 **[Biological Data:](https://github.com/ka-9/DataGem/tree/main/Biological%20Data)** Genetic, genomic, and biological datasets.
 - 📟 **[Technology Data:](https://github.com/ka-9/DataGem/tree/main/Technology%20Data)** Datasets related to technological advancements and equipment.
