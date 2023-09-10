@@ -29,7 +29,7 @@ Welcome to DataGem – Your Gateway to Quality ML Datasets! 🌟 Discover a cura
 - 📟 **[Technology Data:](https://github.com/ka-9/DataGem/tree/main/Technology%20Data)** Datasets related to technological advancements and equipment.
 - 🌷 **[Environmental Data:](https://github.com/ka-9/DataGem/tree/main/Environmental%20Data)** Datasets related to the environment and ecology.
 - 📚 **Educational Data:** Educational materials and learning datasets.
-- 🥑 **Food Data:** Datasets related to ingredients, recipes, nutrition, and culinary trends.
+- 🥑 **[Food Data:](https://github.com/ka-9/DataGem/tree/main/Food%20Data)** Datasets related to ingredients, recipes, nutrition, and culinary trends.
 - 🐼 **[Animal Data:](https://github.com/ka-9/DataGem/blob/main/Animal%20Data/Animal%20Data.md)** Datasets related to wildlife, animal behavior, and species information.
 
 ## Contributing to DataGem 🚀
