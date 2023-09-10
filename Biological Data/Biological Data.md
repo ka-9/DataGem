@@ -4,6 +4,8 @@
 
   Developed by [Google Deepmind](https://deepmind.com/) and [EMBL's European Bioinformatics Institute](https://www.ebi.ac.uk/). AlphaFold DB provides open access to over 200 million protein structure predictions to accelerate scientific research by predicting a protein's 3D structure from its amino acid sequence. It regularly achieves accuracy competitive with experiment.
 
+---
+
 * ## [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
   - The data was collected from 4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach.
   - This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them.
@@ -20,6 +22,7 @@
   | **# Attributes**            | 13                      |
 
       Source: Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+---
 
 * ## [Diabetes](https://archive.ics.uci.edu/dataset/34/diabetes)
   Diabetes patient records were obtained from two sources:  an automatic electronic recording device and paper records.  
@@ -35,5 +38,7 @@
   | **Instances**             | -             |
   | **Attributes**            | 20            |
 
+      Source: Kahn,Michael. Diabetes. UCI Machine Learning Repository. https://doi.org/10.24432/C5T59G.
   
+---
 
