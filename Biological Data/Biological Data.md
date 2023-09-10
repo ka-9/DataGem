@@ -17,3 +17,20 @@
   | **# Attributes**            | 13                      |
 
       Source: Janosi,Andras, Steinbrunn,William, Pfisterer,Matthias, and Detrano,Robert. (1988). Heart Disease. UCI Machine Learning Repository. https://doi.org/10.24432/C52P4X.
+
+* ## [Diabetes](https://archive.ics.uci.edu/dataset/34/diabetes)
+  Diabetes patient records were obtained from two sources:  an automatic electronic recording device and paper records.  
+  The automatic device had an internal clock to timestamp events, whereas the paper records only provided "logical time" slots (breakfast, lunch, dinner, bedtime).  
+  For paper records, fixed times were assigned to breakfast (08:00), lunch (12:00), dinner (18:00), and bedtime (22:00).  
+  Thus paper records have fictitious uniform recording times whereas electronic records have more realistic time stamps.
+
+  | **Dataset Characteristic** | **Value**        |
+  |-----------------------|---------------|
+  | **Subject Area**           | Life Science  |
+  | **Associated Tasks**      | -             |
+  | **Attribute Type**        | Categorical, Integer |
+  | **Instances**             | -             |
+  | **Attributes**            | 20            |
+
+  
+
