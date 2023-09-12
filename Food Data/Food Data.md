@@ -16,3 +16,20 @@
     | # Attributes           | 16                  |
 
         Source: Dry Bean Dataset. (2020). UCI Machine Learning Repository. https://doi.org/10.24432/C50S4B.
+
+* ## Wine
+  [Download this Dataset](https://archive.ics.uci.edu/static/public/109/wine.zip)
+  Using chemical analysis to determine the origin of wines.
+  These data are the results of a chemical analysis of wines grown in the same region in Italy but derived from three different cultivars. The analysis determined the quantities of 13 constituents found in each of the three types of wines.
+
+    | Dataset Characteristic | Value               |
+    |------------------------|---------------------|
+    | Subject Area           | Physical Science    |
+    | Associated Tasks       | Classification      |
+    | Attribute Type         | Integer, Real       |
+    | # Instances            | 178               |
+    | # Attributes           | 13                 |
+
+      Source: Aeberhard,Stefan and Forina,M.. (1991). Wine. UCI Machine Learning Repository. https://doi.org/10.24432/C5PC7J.
+
+  
