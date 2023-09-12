@@ -1,6 +1,7 @@
 # 🌷 Environmental Datasets
 
 * ## [Iris](https://archive.ics.uci.edu/dataset/53/iris)
+  ### [Download this Dataset](https://archive.ics.uci.edu/static/public/53/iris.zip)
 
     The dataset in question is a small classic dataset introduced by Fisher in 1936.
     It is among the earliest known datasets utilized for assessing classification techniques.
@@ -17,5 +18,9 @@
     | # Attributes            | 4 Information |
 
       Source: Fisher,R. A.. (1988). Iris. UCI Machine Learning Repository. https://doi.org/10.24432/C56C76.
+
+---
+
+
 
 
