@@ -7,6 +7,8 @@
 ---
 
 * ## [Heart Disease](https://archive.ics.uci.edu/dataset/45/heart+disease)
+  ### [Download this Dataset](https://archive.ics.uci.edu/static/public/45/heart+disease.zip)
+   
   - The data was collected from 4 databases: Cleveland, Hungary, Switzerland, and the VA Long Beach.
   - This database contains 76 attributes, but all published experiments refer to using a subset of 14 of them.
   - In particular, the Cleveland database is the only one that has been used by ML researchers to date.
@@ -25,6 +27,8 @@
 ---
 
 * ## [Diabetes](https://archive.ics.uci.edu/dataset/34/diabetes)
+  ### [Download this Dataset](https://archive.ics.uci.edu/static/public/34/diabetes.zip)
+  
   Diabetes patient records were obtained from two sources:  an automatic electronic recording device and paper records.  
   The automatic device had an internal clock to timestamp events, whereas the paper records only provided "logical time" slots (breakfast, lunch, dinner, bedtime).  
   For paper records, fixed times were assigned to breakfast (08:00), lunch (12:00), dinner (18:00), and bedtime (22:00).  
